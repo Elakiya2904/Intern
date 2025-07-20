@@ -21,7 +21,7 @@ export default function RootLayout({
         window.dataLayer.push(args);
       }
       gtag('js', new Date());
-      gtag('config', 'G-MHM5ZONXLK');
+      gtag('config', 'G-MHM5Z0NXLK');
     }
   }, []);
 
